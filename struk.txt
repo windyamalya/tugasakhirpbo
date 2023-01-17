@@ -1,0 +1,10 @@
+============================
+STRUK PENITIPAN SEPEDA MOTOR
+============================
+
+NAMA PENITIP    = windy
+ALAMAT PENITIP  = tamanan
+NO HP PENITIP   = 10101
+JENIS KELAMIN   = perempuan
+NAMA PETUGAS    = yodep
+NO HP PETUGAS   = 1212121
